@@ -28,7 +28,7 @@
   },
   "require": {
     "craftcms/cms": "^3.0.0",
-    "craftcms/commerce": "^2.0.0",
+    "craftcms/commerce": "^2.0.0 || ^3.0.0",
     "craftcms/commerce-omnipay": "^1.0.0",
     "omnipay/paymentexpress": "v2.2.2"
   },
